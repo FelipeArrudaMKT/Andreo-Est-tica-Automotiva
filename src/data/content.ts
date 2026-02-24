@@ -105,11 +105,6 @@ export const faqs = [
 
 export const galleryImages = [
   {
-    url: "https://images.unsplash.com/photo-1601362840469-51e4d8d59085?auto=format&fit=crop&q=80&w=800",
-    title: "Lavagem Detalhada Premium",
-    details: "Neste veículo realizamos uma limpeza profunda em todos os cantos, incluindo motor e caixas de roda. O resultado é um carro com aspecto de zero km."
-  },
-  {
     url: "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800",
     title: "Polimento e Espelhamento",
     details: "Remoção de micro-riscos e restauração total do brilho. Aplicamos uma camada de cera premium para proteção extra."
@@ -130,8 +125,13 @@ export const galleryImages = [
     details: "Recuperação da cor original de plásticos externos e internos que sofreram com a ação do sol."
   },
   {
-    url: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800",
+    url: "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&q=80&w=800",
     title: "Limpeza de Motor",
     details: "Remoção de graxa e sujeira acumulada com técnica de limpeza a seco, preservando componentes eletrônicos."
+  },
+  {
+    url: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800",
+    title: "Limpeza de Rodas e Caixas",
+    details: "Remoção de fuligem de freio e barro acumulado, com aplicação de selante para facilitar próximas limpezas."
   },
 ];

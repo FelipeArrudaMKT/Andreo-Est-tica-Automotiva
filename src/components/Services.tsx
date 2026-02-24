@@ -4,8 +4,17 @@ import { motion } from 'motion/react';
 
 export default function Services() {
   return (
-    <section id="servicos" className="py-24 bg-gray-50">
-      <div className="container mx-auto px-4">
+    <section id="servicos" className="py-24 bg-gray-50 relative overflow-hidden">
+      {/* Background Pattern/Image */}
+      <div className="absolute inset-0 opacity-[0.03] pointer-events-none">
+        <img 
+          src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=1920" 
+          alt="" 
+          className="w-full h-full object-cover grayscale"
+        />
+      </div>
+      
+      <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-blue-600 font-bold uppercase tracking-widest text-sm mb-2">Nossos Serviços</h2>
           <p className="text-4xl font-black text-gray-900">Estética Automotiva Completa</p>

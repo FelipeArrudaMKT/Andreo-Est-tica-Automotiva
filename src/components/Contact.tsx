@@ -67,6 +67,15 @@ export default function Contact() {
                 <p className="text-gray-600 text-sm">{businessData.whatsappDisplay}</p>
               </div>
             </div>
+
+            <div className="hidden lg:block relative rounded-3xl overflow-hidden h-48 shadow-lg">
+              <img 
+                src="https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&q=80&w=600" 
+                alt="Detalhe automotivo" 
+                className="w-full h-full object-cover"
+              />
+              <div className="absolute inset-0 bg-blue-600/20"></div>
+            </div>
           </div>
 
           {/* Form */}
