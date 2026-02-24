@@ -1,11 +1,45 @@
-<div align="center">
+# Andreo Estética Automotiva - Landing Page
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Landing page moderna e profissional para estética automotiva em Cidrolândia - MS.
 
-  <h1>Built with AI Studio</h2>
+## Tecnologias
+- Vite
+- React
+- TypeScript
+- TailwindCSS
+- Motion (Animações)
+- Lucide React (Ícones)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Como rodar localmente
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-</div>
+2. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+
+3. Para gerar o build de produção:
+   ```bash
+   npm run build
+   ```
+
+## Deploy na Vercel
+
+Este projeto está pronto para ser implantado na Vercel.
+
+1. Conecte seu repositório GitHub à Vercel.
+2. A Vercel detectará automaticamente as configurações do Vite.
+3. Certifique-se de que as seguintes configurações estão definidas:
+   - **Framework Preset:** Vite
+   - **Build Command:** `npm run build`
+   - **Output Directory:** `dist`
+
+## Estrutura do Projeto
+- `src/components`: Componentes reutilizáveis da interface.
+- `src/data`: Conteúdo textual e dados do negócio.
+- `src/App.tsx`: Ponto de entrada principal da aplicação.
+- `src/index.css`: Estilos globais e configurações do Tailwind.
