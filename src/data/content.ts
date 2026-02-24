@@ -1,6 +1,6 @@
 export const businessData = {
   name: "Andreo Estética Automotiva",
-  location: "Cidrolândia - MS",
+  location: "Sidrolândia - MS",
   whatsapp: "556581599283",
   whatsappDisplay: "(65) 81599-283",
   hours: "Seg a Sáb – 08:00 às 18:00",
@@ -55,7 +55,7 @@ export const benefits = [
   },
   {
     title: "Atendimento Local",
-    description: "Fácil agendamento e compromisso com o cliente de Cidrolândia.",
+    description: "Fácil agendamento e compromisso com o cliente de Sidrolândia.",
   },
 ];
 
@@ -125,7 +125,7 @@ export const galleryImages = [
     details: "Limpeza completa de bancos de couro, teto e carpetes. Eliminação de odores e bactérias com produtos biodegradáveis."
   },
   {
-    url: "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&q=80&w=800",
+    url: "https://i.ibb.co/DD94r0Qj/download.jpg",
     title: "Revitalização de Plásticos",
     details: "Recuperação da cor original de plásticos externos e internos que sofreram com a ação do sol."
   },

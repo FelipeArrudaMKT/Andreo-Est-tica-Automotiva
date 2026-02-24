@@ -1,6 +1,6 @@
 # Andreo Estética Automotiva - Landing Page
 
-Landing page moderna e profissional para estética automotiva em Cidrolândia - MS.
+Landing page moderna e profissional para estética automotiva em Sidrolândia - MS.
 
 ## Tecnologias
 - Vite

@@ -14,7 +14,7 @@ export default function Footer() {
               <Logo />
             </div>
             <p className="text-gray-400 max-w-sm mb-8">
-              Referência em estética automotiva em Cidrolândia - MS. 
+              Referência em estética automotiva em Sidrolândia - MS. 
               Cuidamos do seu patrimônio com os melhores produtos e técnicas do mercado.
             </p>
             <div className="flex gap-4">
@@ -45,7 +45,7 @@ export default function Footer() {
               <span>{businessData.location}</span>
             </div>
             <div className="text-gray-400 text-sm">
-              <p>Atendemos Cidrolândia e região com agendamento prévio.</p>
+              <p>Atendemos Sidrolândia e região com agendamento prévio.</p>
             </div>
           </div>
         </div>

@@ -24,7 +24,7 @@ export default function Hero() {
           className="max-w-2xl"
         >
           <span className="inline-block bg-orange-500 text-white px-4 py-1 rounded-full text-xs font-bold uppercase tracking-widest mb-4">
-            Atendemos Cidrolândia-MS e Região
+            Atendemos Sidrolândia-MS e Região
           </span>
           <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight">
             {businessData.name}
